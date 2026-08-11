@@ -15,6 +15,7 @@ This project analyzes sales data using SQL.
 -JOINS
 -Window Functions
 -Aggregate Functions
-
+-Case Condition
+-Rnak()
 ## Author
 Sudhansu Mahapatra
